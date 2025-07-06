@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
+![Banner]([https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile](https://i.imgur.com/9bQf1sS.png))
 
 # 👋 Hello! I'm Josue Carreño
 
